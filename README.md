@@ -19,8 +19,10 @@ A Full-Stack automation tool that bridges Google Chrome and Internet Download Ma
 
 ### Step 1: The Bridge App (Backend)
 1.  Go to the [Releases Page](https://github.com/sunnyissac18/IDM-Playlist-Automator/releases).
-2.  Download **`IDM_Bridge.exe`**.
-3.  Run the `.exe`. A black window will appear. **Keep this open.**
+2.  Download **`IDM_Playlist_Tool_v1.1.zip`**.
+3.  **Extract the zip file** to a folder on your computer.
+4.  Open the folder and run **`IDM_Bridge.exe`**.
+    * *Note: Keep this window open while downloading.*
 
 ### Step 2: The Extension (Frontend)
 1.  Download **`IDM_Extension_v1.0.zip`** from Releases and extract it.
