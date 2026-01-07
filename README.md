@@ -2,7 +2,7 @@
 
 A Full-Stack automation tool that bridges Google Chrome and Internet Download Manager (IDM) to enable one-click playlist downloads.
 
-![Project Banner](https://via.placeholder.com/1000x300?text=IDM+Playlist+Automator+Demo)
+![Project Banner](./banner.png)
 
 ## 🌟 Features
 * **One-Click Batch Download:** Grab entire YouTube playlists instantly.
