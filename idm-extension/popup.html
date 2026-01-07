@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>IDM Sync</h1>
+        <p>Playlist Automation Tool</p>
+    </div>
+
+    <div class="container">
+        <div class="status-box" id="statusBox">
+            <div class="icon-area" id="statusIcon"></div>
+            <div class="status-text" id="statusText">Ready to connect</div>
+        </div>
+
+        <button id="downloadBtn" class="btn-main">
+            <span>Download Playlist</span>
+            <div class="spinner" id="loadingSpinner"></div>
+        </button>
+        
+        <div class="footer">v1.0 • Local Bridge Active</div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
