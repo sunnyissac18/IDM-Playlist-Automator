@@ -4,6 +4,17 @@ A Full-Stack automation tool that bridges Google Chrome and Internet Download Ma
 
 ![Project Banner](./banner.png)
 
+
+## NOTICE 
+* If you want to use this Extension and don't have Internet Download Manager(IDM). Follow These Steps.
+* **Step 1:** From the Folder you've extracted you'll be having yt-dlp.exe file.
+* **Step 2:** Setup Path from Environment Variables.
+* **Step 3:** Choose your destination folder where you want to save the playlist videos.
+* **Step 4:** right click on empty space and click open with Terminal 
+* **Step 5:** in terminal use this command -  yt-dlp "Playlist_Link" , press Enter. Thats it
+
+
+
 ## 🌟 Features
 * **One-Click Batch Download:** Grab entire YouTube playlists instantly.
 * **Smart Queue System:** Prevents IDM errors using a serial processing buffer.
