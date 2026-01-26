@@ -11,7 +11,7 @@ A Full-Stack automation tool that bridges Google Chrome and Internet Download Ma
 * **Step 2:** Setup Path from Environment Variables.
 * **Step 3:** Choose your destination folder where you want to save the playlist videos.
 * **Step 4:** right click on empty space and click open with Terminal 
-* **Step 5:** in terminal use this command -  yt-dlp "Playlist_Link" , press Enter. Thats it
+* **Step 5:** in terminal use this command **`yt-dlp "Playlist_Link"`** , press Enter. Thats it
 
 
 
