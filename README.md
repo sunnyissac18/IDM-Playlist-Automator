@@ -6,7 +6,7 @@ A Full-Stack automation tool that bridges Google Chrome and Internet Download Ma
 
 
 ## NOTICE 
-* If you want to use this Extension and don't have Internet Download Manager(IDM). Follow These Steps.
+* If you want to use this Extension and don't have Internet Download Manager(IDM) or if the Extension having bugs & you want to Download Playlist. Follow These Steps.
 * **Step 1:** From the Folder you've extracted you'll be having yt-dlp.exe file.
 * **Step 2:** Setup Path from Environment Variables.
 * **Step 3:** Choose your destination folder where you want to save the playlist videos.
